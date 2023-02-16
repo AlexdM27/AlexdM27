@@ -3,5 +3,6 @@
 int main(){
 printf("hello worl\n");
 }
+![](hogwarts.jfif)
 
  ```
